@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="nexup-backend-challenge-2" target="24" />
+      <module name="nexup-backend-challenge-2.main" target="24" />
+      <module name="nexup-backend-challenge-2.test" target="24" />
+      <module name="nexup-backend-challenge.main" target="24" />
+      <module name="nexup-backend-challenge.test" target="24" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
